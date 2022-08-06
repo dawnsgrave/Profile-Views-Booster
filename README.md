@@ -7,7 +7,6 @@
 
 -----
 
-- [X] **Asynchronous**
 - [X] **Fast**
 - [ ] **Proxy Support - HTTP/S**
 
