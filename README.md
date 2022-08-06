@@ -2,7 +2,7 @@
 
 -----
 
-- Original: https://github.com/dreamywashere/profile-views-booster
+- **Original: https://github.com/dreamywashere/profile-views-booster**
 - **https://komarev.com/ghpvc/?username=YOURUSERNAME**
 
 -----
